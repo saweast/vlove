@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Греция",
+    "population": 11000000,
+    "flagURL": "//upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+  },
+  {
+    "name": "Великобритания",
+    "population": 62348447,
+    "flagURL": "//upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+  },
+  {
+    "name": "США",
+    "population": 312247000,
+    "flagURL": "//upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+  }
+]
